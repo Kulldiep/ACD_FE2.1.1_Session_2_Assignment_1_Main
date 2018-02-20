@@ -1,44 +1,741 @@
-<!DOCTYPE html>
-<html>
-    <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>Untitled Document</title>
-    <!--[if gte mso 9]><xml>
-    <o:OfficeDocumentSettings>
-      <o:AllowPNG>
-      <o:PixelsPerInch>96</o:PixelsPerInch>
-    </o:OfficeDocumentSettings>
-    </xml><![endif]-->
-    </head>
-    <body>
-    <table width="480" border="0" cellspacing="0" cellpadding="0" align="center" style="margin:0 auto; width:480px; ">
-      <tr>
-        <td>
-        <table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:480px;">
-          <tr>
-            <td width="10px" bgcolor="#eaf0f1"> &nbsp; </td>
-            <td width="460px"bgcolor="yellow"> &nbsp; </td>
-            <td width="10px" bgcolor="#eaf0f1"> &nbsp; </td>
-          </tr>
-          </table>
-          </td>
-       </tr>
-     </table>
-
-
-<table width="480px" border="0" cellspacing="0" cellpadding="0" align="center" style="margin:0 auto; width:480px;" >
-<tr>
-	<td>
-	<table width="100%" border="0" cellspacing="0" cellpadding="0" style="width:480px;">
-    	<tr>
-        	<td width="10px" bgcolor="#eaf0f1"> &nbsp; </td>
-            <td width="460px"bgcolor="yellow"> &nbsp; </td>
-            <td width="10px" bgcolor="#eaf0f1"> &nbsp; </td>
-        </tr>
-    </table>
-    </td>
-</tr>
-</table>
-
-</body>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+   <head>
+      <title>Nexium</title>
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0 ">
+      <meta name="format-detection" content="telephone=no">
+      <style type="text/css"> 
+::-webkit-scrollbar { 
+    display: none; 
+}	  
+	   a[x-apple-data-detectors] {
+			color: inherit !important;
+			text-decoration: none !important;
+			font-size: inherit !important;
+			font-family: inherit !important;
+			font-weight: inherit !important;
+			line-height: inherit !important;
+		}
+		       body {
+           margin: 0 !important;
+           padding: 0 !important;
+           -webkit-text-size-adjust: none !important;
+           -ms-text-size-adjust: none !important;
+           -webkit-font-smoothing: antialiased !important;
+           width: 100% !important;
+       }
+       .yyy {
+           display: none;
+           display: none!important;
+       }
+       img {
+           border: 0 !important;
+           outline: none !important;
+       }
+       p {
+           Margin: 0px !important;
+           Padding: 0px !important;
+       }
+       table {
+           border-collapse: collapse;
+           mso-table-lspace: 0px;
+           mso-table-rspace: 0px;
+       }
+       td,
+       a,
+       span {
+           border-collapse: collapse;
+           mso-line-height-rule: exactly;
+       }
+       .ExternalClass * {
+           line-height: 100%;
+       }
+       .em_defaultlink a {
+           color: inherit !important;
+           text-decoration: none !important;
+       }
+       span.MsoHyperlink {
+           mso-style-priority: 99;
+           color: inherit;
+       }
+       span.MsoHyperlinkFollowed {
+           mso-style-priority: 99;
+           color: inherit;
+       }
+       .em_red a {
+           text-decoration: none;
+           color: #542f91;
+           text-align: left !important;
+       }
+       .em_grey a {
+           text-decoration: none;
+           color: #000000;
+       }
+       .em_white a {
+           text-decoration: none;
+           color: #ffffff;
+       }
+       .em_pink a {
+           text-decoration: none;
+           color: #542f91;
+       }
+       .em_black a {
+           text-decoration: none;
+           color: #3c4242;
+       }
+	   .mobile_visible{
+			display: none !important;
+		  }
+       /*Stylesheet for the devices width between 481px to 599px*/
+       
+       @media only screen and (min-width: 481px) and (max-width: 619px) {
+           .em_wrapper {
+               width: 100% !important;
+           }
+           .em_main_table {
+               width: 100% !important;
+           }
+           .em_aside {
+               padding: 0px !important;
+           }
+           .em_hide {
+               display: none !important;
+           }
+           .em_full_img {
+               width: 100% !important;
+               height: auto !important;
+           }
+           .em_side {
+               width: 10px !important;
+           }
+           .em_center {
+               text-align: center !important;
+           }
+           .em_h20 {
+               height: 20px !important;
+           }
+           .em_bottom {
+               padding-bottom: 20px !important;
+           }
+           span[class=em_divhide] {
+               display: none !important;
+           }
+		   .mobile_visible{
+				display:block !important;
+			  }
+		    .bverunsub{
+				padding-top:5px;
+				text-align:left !important;
+			}
+			.mobileopt{
+				padding-top:0px !important;
+				height:59px !important;
+				padding-bottom:20px !important;
+			}
+       }
+       /*Stylesheet for the devices width between to 480px*/
+       
+       @media only screen and (max-width: 480px) {
+			.bverunsub{
+				text-align:left !important;
+				padding-top:5px;
+			  }
+			  .mobile_visible{
+				display:block !important;
+			  }
+           .em_wrapper {
+               width: 100% !important;
+           }
+           .em_main_table {
+               width: 100% !important;
+           }
+           .em_hide {
+               display: none !important;
+           }
+           .em_full_img {
+               width: 100% !important;
+               height: auto !important;
+           }
+           .em_side {
+               width: 10px !important;
+           }
+           .em_center {
+               text-align: center !important;
+           }
+           .em_h20 {
+               height: 20px !important;
+           }
+           .em_bottom {
+               padding-bottom: 20px !important;
+           }
+           span[class=em_divhide] {
+               display: none !important;
+           }
+           .em_red {
+               font-size: 10px !important;
+               line-height: 14px !important;
+               text-align: left !important;
+           }
+           .em_white {
+               font-size: 18px !important;
+               line-height: 21px !important;
+           }
+           .em_arrow {
+               width: 7px !important;
+               height: auto !important;
+           }
+           .em_w150 {
+               width: 150px !important;
+           }
+           .em_padtop8 {
+               padding-top: 8px !important;
+           }
+           .em_white a {
+               line-height: 25px !important;
+           }
+		    .bverunsub{
+				padding-top:5px;
+				text-align:left !important;
+			}
+			 .padding_rl_none{
+				padding-right:0px !important;
+				padding-left:0px !important;
+			  }
+			 .mobileopt{
+				padding-top:0px !important;
+				height:59px !important;
+				padding-bottom:20px !important;
+			}
+       }
+       @media only screen and (max-width: 330px) and (min-width: 320px) {
+           .img320responsive {
+               width: 280px !important;
+               max-width: 280px !important;
+           }
+		   .bverunsub{
+				padding-top:5px;
+				text-align:left !important;
+			}
+			 .padding_rl_none{
+				padding-right:0px !important;
+				padding-left:0px !important;
+			  }
+			 .mobileopt{
+				padding-top:0px !important;
+				height:59px !important;
+				padding-bottom:20px !important;
+			}
+       }
+       table {
+           mso-cellspacing: 0px;
+           mso-padding-alt: 0px;
+           border-spacing: 0px;
+       }
+	  </style>
+      <!--[if gte mso 9]>      
+      <xml>
+         <o:OfficeDocumentSettings>
+            <o:AllowPNG></o:AllowPNG>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+         </o:OfficeDocumentSettings>
+      </xml>
+      <![endif]-->
+      
+   </head>
+   <body style="margin:0px; padding:0px;" bgcolor="#ffffff">    
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" style="width:100% !important;" id="body-content">
+         <tbody>
+            <tr>
+               <td valign="top" align="center">
+                  <table width="620" style="width:620px; table-layout:fixed;margin:0 auto;" border="0" cellspacing="0" cellpadding="0" align="center" class="em_main_table">
+                     <!--body_section-->                  
+                     <tbody>
+                        <tr>
+                           <td width="10" style="width:10px;">&nbsp;</td>
+                           <td align="center" valign="top" style="width:600px;" class="em_wrapper">
+                              <table width="600" style="width:600px;" border="0" cellspacing="0" cellpadding="0" align="center" class="em_wrapper">
+                                 <!--Header_section-->                           
+                                 <tbody>
+                                    <tr>
+                                       <td align="center" valign="top">
+                                          <table width="600" style="width:600px;" border="0" cellspacing="0" cellpadding="0" align="center" class="em_wrapper">
+                                             <tbody>
+                                                <tr class="rollover selectable pre-header">
+                                                   <td align="center" valign="top" style="padding:0px; background-color:#ffffff;" class="em_aside">
+                                                      <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+                                                         <tbody>
+                                                            <tr>
+                                                               <td height="13" style="font-size:1px; line-height:1px;">&nbsp;</td>
+                                                            </tr>
+                                                            <tr>
+                                                               <td align="center" valign="top">
+                                                                  <table width="600" border="0" cellspacing="0" cellpadding="0" align="center" style="width:600px;mso-cellspacing:0px;mso-cellpadding:0px;" class="em_wrapper">
+                                                                     <tbody>
+                                                                        <tr>
+                                                                           <td align="center" valign="top" style="width:600px;" class="em_wrapper">
+                                                                              <table width="400" style="width:400px;" border="0" cellspacing="0" cellpadding="0" align="left" class="em_wrapper">
+                                                                                 <tbody>
+                                                                                    <tr>
+                                                                                       <td class="em_red form_field" fieldtype="richtxt" fieldname="Preheader label" align="left" style="font-family: Arial, sans-serif; font-size: 12px; line-height: 15px; color:#542f91;">Help your patients keep the Purple Pill.</td>                                                                                       
+                                                                                    </tr>
+																					<tr>
+                                                                                       <td class="em_red form_field" align="left" style="padding-top:8px;font-family: Arial, sans-serif; font-size: 12px; line-height: 15px; color:#542f91;">NEXIUM<sup>&reg;</sup> (esomeprazole magnesium)</td>
+                                                                                      <!--  <td width="120" style="width:120px;" class="em_hide">&nbsp;</td> -->
+                                                                                    </tr>
+                                                                                 </tbody>
+                                                                              </table>
+                                                                              <!--[if gte mso 9]>                                                         
+                                                                           </td>
+                                                                           <td valign="top">
+                                                                              <![endif]-->                                                            
+                                                                              <table width="200" style="width:200px;" border="0" cellspacing="0" cellpadding="0" class="em_wrapper">
+                                                                                 <tbody>
+                                                                                    <tr>
+                                                                                       <td class="em_red em_padtop8 bverunsub" style="text-align:right; font-family: Arial, Helvetica, Sans-serif; font-size: 12px; line-height: 16px; color:#542f91"><a href="#" target="_blank" style="text-decoration:none; color:#542f91">Browser Version</a> &nbsp; <span style="color:#542f91;" class="em_grey">|</span> &nbsp; <a href="http://t.e.astrazeneca-us.com/webApp/aznUsUnsubWebApp?id={ENCRYPTED%20RECIPIENT%20ID}&lang=en_US&_service={SERVICE%20CODE}" target="_blank" style="text-decoration:none; color:#542f91">Unsubscribe</a><span style="color:#777777;" class="em_grey"></span></td>
+                                                                                    </tr>
+                                                                                 </tbody>
+                                                                              </table>
+                                                                           </td>
+                                                                        </tr>
+                                                                     </tbody>
+                                                                  </table>
+                                                               </td>
+                                                            </tr>
+                                                            <tr>
+                                                               <td height="8" style="font-size:1px; line-height:1px;">&nbsp;</td>
+                                                            </tr>
+                                                            <tr>
+                                                               <td class="em_red" align="left" style="font-family: Arial, Helvetica, Sans-serif; font-size: 12px; line-height: 15px; color:#542f91;"><a href="https://m.purplepill.com/home.html#isi" target="_blank" style="color:#542f91; text-decoration:underline;"> View Important Safety Information </a><span style="color:#542f91;" class="em_grey">and</span> <a href="http://www.azpicentral.com/pi.html?product=nexium&country=us&popup=no" target="_blank" style="color:#542f91; text-decoration:underline;">Prescribing Information</a> <span style="color:#542f91;" class="em_grey">with Patient Information</span></td>
+                                                            </tr>
+                                                            <tr>
+                                                               <td height="13" style="font-size:1px; line-height:1px; mso-line-height-rule:exactly;">&nbsp;</td>
+                                                            </tr>
+                                                         </tbody>
+                                                      </table>
+                                                   </td>
+                                                </tr>
+                                             </tbody>
+                                          </table>
+                                       </td>
+                                    </tr>
+                                    <!--//Header_section-->                           <!--Banner Text_section-->                           
+                                    <tr>
+                                       <td align="center" valign="top">
+                                          <table width="600" style="width:600px;" border="0" cellspacing="0" cellpadding="0" align="center" class="em_wrapper selectable">
+                                             <tbody>
+                                                <tr>
+                                                   <td align="center" valign="top">
+                                                      <table width="400" style="width:400px;" border="0" cellspacing="0" cellpadding="0" align="left" class="em_wrapper">
+                                                         <tbody>
+                                                            <tr>
+                                                               <td align="center" valign="top">
+                                                                  <table width="400" style="width:400px;" border="0" cellspacing="0" cellpadding="0" align="left" class="em_wrapper">
+                                                                     <tbody>
+                                                                        <tr>
+                                                                           <td align="center" valign="top">
+                                                                              <table width="390" height="50" bgcolor="#ffffff" style="height:50px;width:390px;background-color: #520d76;color: #ffffff;font-size:11px;padding-top: 5px;padding-right: 5px;padding-bottom: 5px;padding-left: 5px;line-height:20px;" border="0" cellspacing="0" cellpadding="0" align="left" class="em_wrapper">
+                                                                                 <!-- <tr>                                                                  <td height="18" style="font-size:1px; line-height:1px;" class="em_hide">&nbsp;</td>                                                                  </tr> -->                                                               
+                                                                                 <tbody>
+                                                                                    <tr class="em_blue em_center form_field" fieldtype="richtxt" fieldname="Nexium Statement">
+                                                                                       <td class="em_blue em_center" bgcolor="#520d76" align="center" height="40" style="height:40px;font-family: Arial, Helvetica, Sans-serif;font-size: 17px;line-height: 19px;background-color: #520d76; color: #ffffff;padding-top: 5px;padding-right: 5px;padding-bottom: 5px;padding-left: 5px;width:390px;max width:390px;">2 ways to keep NEXIUM</td>
+                                                                                    </tr>
+                                                                                    <!--  <tr>                                                                  <td class="em_blue em_center" align="left" style="font-family: Arial, Helvetica, Sans-serif; font-size: 26px; line-height: 30px; color:#003865;">STAY WITH <span style="color:#efab00; font-weight:bold;">CRESTOR!</span></td>                                                                  </tr> -->                                                               <!--  <tr>                                                                  <td height="18" style="font-size:1px; line-height:1px;">&nbsp;</td>                                                                  </tr> -->                                                            
+                                                                                 </tbody>
+                                                                              </table>
+                                                                           </td>
+                                                                           <!-- <td width="10" style="width:10px;">&nbsp;</td> -->                                                      
+                                                                        </tr>
+                                                                     </tbody>
+                                                                  </table>
+                                                               </td>
+                                                            </tr>
+                                                         </tbody>
+                                                      </table>
+                                                      <!--[if gte mso 9]>                                       
+                                                   </td>
+                                                   <td valign="top">
+                                                      <![endif]-->                                          
+                                                      <table width="200" style="width:200px; background-color:#ffffff;" border="0" cellspacing="0" cellpadding="0" align="center" class="em_wrapper">
+                                                         <tbody>
+                                                            <tr>
+                                                               <td width="10" style="width:10px;">&nbsp;</td>
+                                                               <td align="center" valign="top">
+                                                                  <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+                                                                     <!-- <tr>                                                         <td height="18" style="font-size:1px; line-height:1px;" class="em_h20">&nbsp;</td>                                                         </tr> -->                                                      <!--Logo image 274X47-->                                                      
+                                                                     <tbody>
+																		<tr>
+																		   <td height="10" class="mobile_visible" style="font-size:1px;line-height:1px;height:10px;mso-line-height-rule:exactly;">&nbsp;</td>
+																		</tr>
+                                                                        <tr>
+                                                                           <td align="center" valign="top"><a href="https://www.purplepill.com/" target="_blank" style="text-decoration:none;" class="form_field" fieldtype="img-link" fieldname="CTA 1"><img src="http://t.email.astrazeneca.com/res/astrazeneca/US16840_Nexium_logo_updated.png" width="190" height="69" alt="Nexium Logo" title="Nexium Logo" border="0" style="display:block; font-family:Arial, sans-serif; font-size:14px; line-height:25px; text-align:right; color:#000000; font-weight:bold;  max-width:190px;"></a></td>
+                                                                        </tr>
+                                                                        <!--//Logo image 274X47-->                                                      <!-- <tr>                                                         <td height="18" style="font-size:1px; line-height:1px;" class="em_h20">&nbsp;</td>                                                         </tr> -->                                                   
+                                                                     </tbody>
+                                                                  </table>
+                                                               </td>
+                                                               <td width="10" style="width:10px;">&nbsp;</td>
+                                                            </tr>
+                                                         </tbody>
+                                                      </table>
+                                                   </td>
+                                                </tr>
+                                                <!--  <tr>                                       <td height="5" class="em_h20">&nbsp;</td>                                       </tr>    -->                                 
+                                             </tbody>
+                                          </table>
+                                       </td>
+                                    </tr>
+                                    <!--//Banner Text_section-->                           
+                                    <tr>
+                                       <td height="1" bgcolor="#542f91" style="font-size:1px; line-height:1px;">&nbsp;</td>
+                                    </tr>
+                                    <tr>
+                                       <td height="28" style="font-size:1px; line-height:1px;" class="em_h20">&nbsp;</td>
+                                    </tr>
+                                    <tr class="selectable">
+                                       <td class="em_grey form_field" fieldtype="richtxt" fieldname="Header" align="left" style="font-family: Arial, Helvetica, Sans-serif; font-size: 17px; line-height: 21px; color:#542f91;">Help your patients keep the Purple Pill by following these 2 simple steps!</td>
+                                    </tr>
+                                   <!--  <tr>
+                                       <td class="em_pink" align="left" style="font-family: Arial, Helvetica, Sans-serif; font-size: 14px; line-height:24px; color:#520d76; font-weight:bold;padding-top:10px;">Important Safety Information About NEXIUM</td>
+                                    </tr>
+                                    <tr>
+                                       <td height="10" style="font-size:1px; line-height:1px;" class="em_h20">&nbsp;</td>
+                                    </tr>
+                                    <tr>
+                                       <td class="em_grey" align="left" style="font-family: Arial, Helvetica, Sans-serif; font-size: 12px; line-height: 22px; color:#542f91;">Symptom relief does not rule out the presence of other serious conditions. Talk with your doctor. Talk to your doctor about serious side effects, including:...<a href="https://clicktime.symantec.com/a/1/vilfgLecrb9TKQrr_eL4UR1CGHcU0YU-u8dV-bCgHWc=?d=Ow_Evbj75T64-CwiIiHt3-HT83IlaOTqlg1kRpRc7V8uihFx1pOhMws7GxKkVob3TTCZ8fRnR6CMNiKxlib_jrVB4JmlZSZ1LAzaYcrY8vhRWwrSVWuoYNJpW2Tc47aze_L6TYDLfiHZVZpMaQySwBTmLLseXuM4ZHwASCJKfCNETHt7xKjqJx0sxchCcDQTPmzgCYIpAgXooFKycpKE7WTWWdNSRhLutLa12XpjzmSyBrIBOi4dS7i3eRH_ccFpNqUoDxeDNjYPJpKEhzxLvfO0gJ90B52yfwzpu1TVPGj942oMTLX4z3NIt37S3LBgslGFeoYi7PxcpSr9zt6vFSJZbFST52wlIhMQEeLdGiQ-XrNRO8-nxXQ_MsOohBqbvLL5Kbkzb0raKhv9x90GOuR0Eyg%3D&amp;u=https%3A%2F%2Fm.purplepill.com%2Fhome.html%23isi" target="_blank" style="color:#520d76; text-decoration:underline; font-weight:bold;">See More</a></td>
+                                    </tr> -->
+                                    <tr>
+                                       <td height="15" style="font-size:1px; line-height:1px;" class="em_h20">&nbsp;</td>
+                                    </tr>
+                                    <tr>
+                                       <!--Text and image_section-->                           
+                                    </tr>
+                                    <tr>
+                                       <td align="center" valign="top">
+                                          <table width="600" style="width:600px;" border="0" cellspacing="0" cellpadding="0" align="center" class="em_wrapper" dir="rtl">
+                                             <tbody>
+                                                <tr>
+                                                   <td align="center" valign="top">
+                                                      <table width="300" style="width:300px;" border="0" cellspacing="0" cellpadding="0" align="right" class="em_wrapper selectable" dir="ltr">
+                                                         <tbody>
+                                                            <tr>
+                                                               <td align="center" valign="top"><img src="http://t.email.astrazeneca.com/res/astrazeneca/8f605ee8267d9a79729b349fa3a9ae43.png" width="300" height="250" alt="NEXIUM Script" title="NEXIUM Script" border="0" style="display:block; font-family:Arial, sans-serif; font-size:14px; line-height:25px; text-align:center; color:#000000; font-weight:bold;  max-width:300px;" class="img320responsive form_field" fieldtype="img" fieldname="CTA Image2"></td>
+                                                            </tr>
+                                                         </tbody>
+                                                      </table>
+                                                      <!--[if gte mso 9]>                                       
+                                                   </td>
+                                                   <td valign="top">
+                                                      <![endif]-->                                          
+                                                      <table width="300" style="width:300px;" border="0" cellspacing="0" cellpadding="0" align="left" class="em_wrapper selectable" dir="ltr">
+                                                         <tbody>
+                                                            <tr>
+                                                               <td align="center" valign="top">
+                                                                  <table width="300" style="width:300px;" border="0" cellspacing="0" cellpadding="0" align="left" class="em_wrapper">
+                                                                     <tbody>
+                                                                        <tr>
+                                                                           <td align="center" valign="top">
+                                                                              <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+                                                                                 <tbody>
+                                                                                    <tr>
+                                                                                       <td height="16" style="font-size:1px; line-height:1px;" class="em_h20">&nbsp;</td>
+                                                                                    </tr>
+                                                                                    <tr>
+                                                                                       <td class="em_grey form_field" fieldtype="richtxt" fieldname="Main Content" align="left" style="font-family: Arial, sans-serif; font-size: 18px; font-weight:normal; line-height: 20px; color:#542f91;">
+                                                                                          1. Be sure to write &quot;Dispense as Written&quot; on NEXIUM prescriptions.
+                                                                                          <br/><br/>
+                                                                                          2. Provide your patients with the NEXIUM Savings Card to help them pay as little as <span style="color:#542f91;">$15</span>* per month.<br/><br/>
+                                                                                          <span style="font-size:14px; line-height:16px;">*Subject to eligibility. Restrictions apply.<br/>
+                                                                                          <span style="font-weight: normal;"><a href="https://www.purplepill.com/heartburn-relief/purple-plus-savings-card.html" target="_blank" style="font-weight: normal;color:#542f91;text-decoration:underline;">See Site for details.</a></span></span>
+                                                                                       </td>
+                                                                                    </tr>
+                                                                                 </tbody>
+                                                                              </table>
+                                                                           </td>
+                                                                           <td width="25" style="width:25px;" class="em_hide">&nbsp;</td>
+                                                                        </tr>
+                                                                     </tbody>
+                                                                  </table>
+                                                               </td>
+                                                            </tr>
+                                                         </tbody>
+                                                      </table>
+                                                   </td>
+                                                </tr>                                               
+                                             </tbody>
+                                          </table>
+                                       </td>
+                                    </tr>
+                                    <!--//Text and image_section-->                           <!--Left Image right cta section-->                           
+                                    <tr>
+                                       <td align="center" valign="top">
+                                          <table width="600" style="width:600px;" border="0" cellspacing="0" cellpadding="0" align="center" class="em_wrapper selectable">
+                                             <tbody>
+                                                <tr>
+                                                  <td align="center" valign="top" style="padding-left:10px;padding-right:10px;padding-top:0px;padding-bottom:0px; background-color:#ffffff;" class="em_aside padding_rl_none">
+                                                      <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+                                                         <tbody>                                                            
+                                                            <tr>                                                              
+															   <td align="center" valign="top" height="233" style="vertical-align:top;height:233px;">
+                                                                  <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+                                                                     <tbody>
+                                                                        <tr>
+                                                                           <td align="center" valign="top">
+                                                                              <table width="280" style="280px;mso-cellspacing:0px;mso-cellpadding:0px;" border="0" cellspacing="0" cellpadding="0" align="left" class="em_wrapper">
+                                                                                 <tbody>
+                                                                                    <tr>
+                                                                                      <td align="center" valign="top" width="280" height="233" style="width:280px;height:233px;"><a href="#" target="_blank" style="text-decoration:none;" class="form_field" fieldtype="img" fieldname="CTA Image3"><img src="http://t.email.astrazeneca.com/res/astrazeneca/c3e43deac4c562e43b4cbf12c7e9f3fc.png" width="280" height="233" alt="Savings Card" title="Savings Card" border="0" style="width:280px;height:233px;display:block; font-family:Arial, sans-serif; font-size:18px; line-height:25px; text-align:center; color:#000000; font-weight:bold;  max-width:280px;"></a></td>
+                                                                                    </tr>
+                                                                                 </tbody>
+                                                                              </table>
+                                                                              <!--[if gte mso 9]>                                                         
+                                                                           </td>
+                                                                           <td valign="top">
+                                                                              <![endif]-->                                                            
+                                                                              <table width="280" style="width:280px;mso-cellspacing:0px;mso-cellpadding:0px;" border="0" cellspacing="0" cellpadding="0" align="right" class="em_wrapper">
+                                                                                 <tbody>                                                                                     
+                                                                                    <tr>
+                                                                                       <td align="center" class="mobileopt" valign="top" height="153" style="height:153px;vertical-align:top;padding-top:80px;">
+                                                                                          <table width="280" style="width:280px; background-color:#520d76; max-width:280px;" border="0" cellspacing="0" cellpadding="0" align="center" class="em_wrapper">
+                                                                                             <tbody>
+                                                                                                <tr>
+                                                                                                   <td class="em_white" height="59" align="center" valign="middle" style="font-family: Arial, sans-serif; font-size: 15px; color:#ffffff;"><a href="https://www.purplepill.com/heartburn-relief/purple-plus-savings-card.html" target="_blank" style="text-decoration:none; color:#ffffff;" class="form_field" fieldtype="url" fieldname="CTA3 Link">Download Savings Card</a></td>
+                                                                                                </tr>
+                                                                                             </tbody>
+                                                                                          </table>
+                                                                                       </td>
+                                                                                    </tr>
+                                                                                 </tbody>
+                                                                              </table>
+                                                                           </td>
+                                                                        </tr>
+                                                                     </tbody>
+                                                                  </table>
+                                                               </td>
+															   
+                                                            </tr>
+                                                           
+                                                         </tbody>
+                                                      </table>
+                                                   </td>
+                                                </tr>                                              
+                                             </tbody>
+                                          </table>
+                                       </td>
+                                    </tr>
+                                    <!--//Left Image right cta section-->                           <!--ISI SECTION-->                            
+                                    <tr>
+                                       <td align="center" valign="top">
+                                          <table width="600" style="width:600px;" border="0" cellspacing="0" cellpadding="0" align="center" class="em_wrapper">
+                                             <tbody>
+                                                <tr>
+                                                   <td class="em_pink" align="left" style="font-family: Arial, Helvetica, Sans-serif; font-size: 14px; line-height:29px; color:#542f91; font-weight:bold;">Important Safety Information</td>
+                                                </tr>
+                                                <tr>
+                                                   <td height="15" class="em_h20" style="font-size:1px;line-height:1px;height:15px;mso-line-height-rule:exactly;">&nbsp;</td>
+                                                </tr>
+                                                <tr>
+                                                   <td>
+                                                      <table width="600" style="width:600px;" border="0" cellspacing="0" cellpadding="0" align="center" class="em_wrapper">
+                                                         <tbody>
+                                                            <tr>
+                                                               <td>
+                                                                  <table width="600" style="width:600px;" border="0" cellspacing="0" cellpadding="0" align="center" class="em_wrapper">
+                                          <tbody>
+                                            <tr>
+                                              <td width="10" align="left" valign="top" style="padding: 0; font-size: 12px; line-height: 15px; font-family: Arial, Helvetica, sans-serif; color: #542f91;width:10px;">•</td>
+                                              <td width="590" align="left" valign="top" style="padding: 0 0 7px 0; font-size: 12px; line-height: 15px; font-family: Arial, Helvetica, sans-serif; color: #000000;width:590px;">NEXIUM is contraindicated in patients with known hypersensitivity to any component of the formulation or to substituted benzimidazoles</td>
+                                            </tr>
+                                            <tr>
+                                              <td width="10" align="left" valign="top" style="padding: 0; font-size: 12px; line-height: 15px; font-family: Arial, Helvetica, sans-serif; color: #542f91;width:10px;">•</td>
+                                              <td width="590" align="left" valign="top" style="padding: 0 0 7px 0; font-size: 12px; line-height: 15px; font-family: Arial, Helvetica, sans-serif; color: #000000;width:590px;">Symptomatic response to therapy does not rule out the presence of gastric malignancy. Consider additional follow-up and diagnostic testing in adult patients who have a suboptimal response or an early symptomatic relapse after completing treatment with a proton pump inhibitor (PPI). In older patients, also consider an endoscopy</td>
+                                            </tr>
+                                            
+                                            <tr>
+                                              <td width="10" align="left" valign="top" style="padding: 0; font-size: 12px; line-height: 15px; font-family: Arial, Helvetica, sans-serif; color: #542f91;width:10px;">•</td>
+                                              <td width="590" align="left" valign="top" style="padding: 0 0 7px 0; font-size: 12px; line-height: 15px; font-family: Arial, Helvetica, sans-serif; color: #000000;width:590px;">Acute interstitial nephritis has been observed in patients taking PPIs including NEXIUM. Discontinue NEXIUM if acute interstitial nephritis develops</td>
+                                            </tr>
+                                            <tr>
+                                              <td width="10" align="left" valign="top" style="padding: 0; font-size: 12px; line-height: 15px; font-family: Arial, Helvetica, sans-serif; color: #542f91;width:10px;">•</td>
+                                              <td width="590" align="left" valign="top" style="padding: 0 0 7px 0; font-size: 12px; line-height: 15px; font-family: Arial, Helvetica, sans-serif; color: #000000;width:590px;">PPI therapy may be associated with increased risk of <em>Clostridium difficile</em>-associated diarrhea. This diagnosis should be considered for diarrhea that does not improve</td>
+                                            </tr>
+                                            <tr>
+                                              <td width="10" align="left" valign="top" style="padding: 0; font-size: 12px; line-height: 15px; font-family: Arial, Helvetica, sans-serif; color: #542f91;width:10px;">•</td>
+                                              <td width="590" align="left" valign="top" style="padding: 0 0 7px 0; font-size: 12px; line-height: 15px; font-family: Arial, Helvetica, sans-serif; color: #000000;width:590px;">PPI therapy may be associated with an increased risk of osteoporosis-related fractures of the hip, wrist, or spine. The risk of fracture was increased in patients who received high-dose (multiple daily doses) and long-term (a year or longer) therapy</td>
+                                            </tr>
+                                            
+                                            <tr>
+                                              <td width="10" align="left" valign="top" style="padding: 0; font-size: 12px; line-height: 15px; font-family: Arial, Helvetica, sans-serif; color: #542f91;width:10px;">•</td>
+                                              <td width="590" align="left" valign="top" style="padding: 0 0 7px 0; font-size: 12px; line-height: 15px; font-family: Arial, Helvetica, sans-serif; color: #000000;width:590px;">Cutaneous lupus erythematosus (CLE) and systemic lupus erythematosus (SLE) have been reported in patients taking PPIs, including esomeprazole. These events included both new onset and exacerbations. If signs or symptoms consistent with CLE or SLE are noted with NEXIUM, discontinue and refer the patient to a specialist. Most patients improve with discontinuation of the PPI alone in 4 to 12 weeks</td>
+                                            </tr>
+                                            
+                                             <tr>
+                                              <td width="10" align="left" valign="top" style="padding: 0; font-size: 12px; line-height: 15px; font-family: Arial, Helvetica, sans-serif; color: #542f91;width:10px;">•</td>
+                                              <td width="590" align="left" valign="top" style="padding: 0 0 7px 0; font-size: 12px; line-height: 15px; font-family: Arial, Helvetica, sans-serif; color: #000000;width:590px;">Avoid concomitant use of NEXIUM with clopidogrel, due to a reduction in plasma concentrations of the active metabolite of clopidogrel. When using NEXIUM consider alternative anti-platelet therapy</td>
+                                            </tr>
+                                          
+                                           <tr>
+                                              <td width="10" align="left" valign="top" style="padding: 0; font-size: 12px; line-height: 15px; font-family: Arial, Helvetica, sans-serif; color: #542f91;width:10px;">•</td>
+                                              <td width="590" align="left" valign="top" style="padding: 0 0 7px 0; font-size: 12px; line-height: 15px; font-family: Arial, Helvetica, sans-serif; color: #000000;width:590px;">Daily treatment with any acid-suppressing medications over a long period of time (eg, longer than 3 years) may lead to malabsorption of cyanocobalamin (vitamin B12). Rare reports of cyanocobalamin deficiency occurring with acid-suppressing therapy have been reported in the literature</td>
+                                            </tr>
+                                            
+                                            
+                                              <tr>
+                                              <td width="10" align="left" valign="top" style="padding: 0; font-size: 12px; line-height: 15px; font-family: Arial, Helvetica, sans-serif; color: #542f91;width:10px;">•</td>
+                                              <td width="590" align="left" valign="top" style="padding: 0 0 7px 0; font-size: 12px; line-height: 15px; font-family: Arial, Helvetica, sans-serif; color: #000000;width:590px;">Hypomagnesemia has been reported rarely with prolonged treatment with PPI therapy and may require discontinuing PPI therapy</td>
+                                            </tr>
+                                            
+                                           <tr>
+                                              <td width="10" align="left" valign="top" style="padding: 0; font-size: 12px; line-height: 15px; font-family: Arial, Helvetica, sans-serif; color: #542f91;width:10px;">•</td>
+                                              <td width="590" align="left" valign="top" style="padding: 0 0 7px 0; font-size: 12px; line-height: 15px; font-family: Arial, Helvetica, sans-serif; color: #000000;width:590px;">Concomitant use of NEXIUM and St. John’s wort or rifampin can substantially decrease NEXIUM concentrations. Avoid concomitant use</td>
+                                            </tr>  
+                                            
+                                          
+                                            <tr>
+                                              <td width="10" align="left" valign="top" style="padding: 0; font-size: 12px; line-height: 15px; font-family: Arial, Helvetica, sans-serif; color: #542f91;width:10px;">•</td>
+                                              <td width="590" align="left" valign="top" style="padding: 0 0 7px 0; font-size: 12px; line-height: 15px; font-family: Arial, Helvetica, sans-serif; color: #000000;width:590px;">Literature suggests that concomitant use of PPIs with methotrexate (primarily at high dose; see methotrexate prescribing information) may elevate and prolong serum levels of methotrexate and/or its metabolite, possibly leading to methotrexate toxicities. In high-dose methotrexate administration, a temporary withdrawal of the PPI may be considered in some patients</td>
+                                            </tr> 
+                                          
+                                          
+                                           <tr>
+                                              <td width="10" align="left" valign="top" style="padding: 0; font-size: 12px; line-height: 15px; font-family: Arial, Helvetica, sans-serif; color: #542f91;width:10px;">•</td>
+                                              <td width="590" align="left" valign="top" style="padding: 0 0 7px 0; font-size: 12px; line-height: 15px; font-family: Arial, Helvetica, sans-serif; color: #000000;width:590px;">Concomitant use of NEXIUM and atazanavir or nelfinavir is not recommended. NEXIUM is expected to increase the plasma levels of saquinavir. Consider dose reduction of saquinavir</td>
+                                            </tr>  
+                                            
+                                             <tr>
+                                              <td width="10" align="left" valign="top" style="padding: 0; font-size: 12px; line-height: 15px; font-family: Arial, Helvetica, sans-serif; color: #542f91;width:10px;">•</td>
+                                              <td width="590" align="left" valign="top" style="padding: 0 0 7px 0; font-size: 12px; line-height: 15px; font-family: Arial, Helvetica, sans-serif; color: #000000;width:590px;">Patients treated with PPIs and warfarin concomitantly may need to be monitored for increases in INR and prothrombin time. Esomeprazole may interfere with the absorption of drugs for which gastric pH affects bioavailability (eg, ketoconazole, iron salts, and digoxin)</td>
+                                            </tr>    
+                                            
+                                             <tr>
+                                              <td width="10" align="left" valign="top" style="padding: 0; font-size: 12px; line-height: 15px; font-family: Arial, Helvetica, sans-serif; color: #542f91;width:10px;">•</td>
+                                              <td width="590" align="left" valign="top" style="padding: 0 0 7px 0; font-size: 12px; line-height: 15px; font-family: Arial, Helvetica, sans-serif; color: #000000;width:590px;">NEXIUM may increase systemic exposure of cilostazol and one of its active metabolites. Consider dose reduction of cilastozol</td>
+                                            </tr> 
+                                            
+                                              <tr>
+                                              <td width="10" align="left" valign="top" style="padding: 0; font-size: 12px; line-height: 15px; font-family: Arial, Helvetica, sans-serif; color: #542f91;width:10px;">•</td>
+                                              <td width="590" align="left" valign="top" style="padding: 0 0 7px 0; font-size: 12px; line-height: 15px; font-family: Arial, Helvetica, sans-serif; color: #000000;width:590px;">NEXIUM I.V. should be used only when oral therapy with NEXIUM is not possible or appropriate</td>
+                                            </tr> 
+                                            
+                                            
+                                             <tr>
+                                              <td width="10" align="left" valign="top" style="padding: 0; font-size: 12px; line-height: 15px; font-family: Arial, Helvetica, sans-serif; color: #542f91;width:10px;">•</td>
+                                              <td width="590" align="left" valign="top" style="padding: 0 0 7px 0; font-size: 12px; line-height: 15px; font-family: Arial, Helvetica, sans-serif; color: #000000;width:590px;">In adults, the most frequently reported adverse reactions (ARs) with NEXIUM include headache, diarrhea, and abdominal pain</td>
+                                            </tr>
+                                            
+                                            <tr>
+                                              <td width="10" align="left" valign="top" style="padding: 0; font-size: 12px; line-height: 15px; font-family: Arial, Helvetica, sans-serif; color: #542f91;width:10px;">•</td>
+                                              <td width="590" align="left" valign="top" style="padding: 0 0 7px 0; font-size: 12px; line-height: 15px; font-family: Arial, Helvetica, sans-serif; color: #000000;width:590px;">The ARs reported at a frequency of 1% or greater with NEXIUM I.V. in clinical trials were headache, flatulence, nausea, abdominal pain, injection site reaction, diarrhea, dry mouth, dizziness/vertigo, constipation, and pruritus</td>
+                                            </tr> 
+                                            
+                                            
+                                            <tr>
+                                              <td width="10" align="left" valign="top" style="padding: 0; font-size: 12px; line-height: 15px; font-family: Arial, Helvetica, sans-serif; color: #542f91;width:10px;">•</td>
+                                              <td width="590" align="left" valign="top" style="padding: 0 0 7px 0; font-size: 12px; line-height: 15px; font-family: Arial, Helvetica, sans-serif; color: #000000;width:590px;">In pediatric patients 1 to 17 years of age, the most frequently reported ARs with NEXIUM include headache, diarrhea, abdominal pain, nausea, and somnolence</td>
+                                            </tr>  
+                                            
+                                            
+                                             <tr>
+                                              <td width="10" align="left" valign="top" style="padding: 0; font-size: 12px; line-height: 15px; font-family: Arial, Helvetica, sans-serif; color: #542f91;width:10px;">•</td>
+                                              <td width="590" align="left" valign="top" style="padding: 0 0 7px 0; font-size: 12px; line-height: 15px; font-family: Arial, Helvetica, sans-serif; color: #000000;width:590px;">In pediatric patients 1 to 11 months the most frequently reported ARs with NEXIUM include abdominal pain, regurgitation, tachypnea, and increased ALT</td>
+                                            </tr>  
+                                              
+                                            
+                                            
+                                          </tbody>
+                                      </table>
+                                                               </td>
+                                                            </tr>
+                                                         </tbody>
+                                                      </table>
+                                                   </td>
+                                                </tr>
+                                                <tr>
+                                                   <td class="em_pink" align="left" style="font-family: Arial, Helvetica, Sans-serif; font-size: 14px; line-height:29px; color:#542f91; font-weight:bold;padding-top:10px;padding-bottom:10px;">Approved Uses for NEXIUM</td>
+                                                </tr>
+                                                <tr>
+                              <td style="font-family: Arial, Helvetica, Sans-serif; font-size: 12px; line-height:15px; color:#000000; padding-bottom:10px;"> NEXIUM 40 mg and 20 mg are indicated for short-term treatment (4 to 8 weeks) in healing and symptomatic resolution of diagnostically confirmed erosive esophagitis (EE). NEXIUM 20 mg is indicated to maintain symptom resolution and healing of EE (controlled studies did not extend beyond 6 months), and for short-term treatment (4 to 8 weeks) of heartburn and other symptoms associated with GERD. </td>
+                            </tr>
+                                                
+                                             </tbody>
+                                          </table>
+                                       </td>
+                                    </tr>
+                                    <!--//ISI SECTION-->                           <!--Text section2-->                           <!--//Text section1-->                           <!--Footer section-->                           
+                                    <tr>
+                                       <td align="left" valign="top">
+                                          <table width="600" style="width:600px;" border="0" cellspacing="0" cellpadding="0" class="em_wrapper">
+                                             <tbody>
+                                                <tr>
+                                                   <td height="16" style="font-size:1px; line-height:1px;">&nbsp;</td>
+                                                </tr>
+                                                <tr>                  
+                             <td class="em_grey" align="left" style="font-family:  Arial, Helvetica, sans-serif;  font-size: 11px; line-height: 13px; color:#000000; padding-bottom:10px;"> Please see full Prescribing Information for <a style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #127dc2; text-decoration: underline;" href="https://www.azpicentral.com/nexium-i-v/nexium_iv.pdf#page=1" target="_blank"> Nexium IV</a> and <a style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #127dc2; text-decoration: underline;" href="http://www.azpicentral.com/pi.html?product=nexium&country=us&popup=no" target="_blank">Nexium Capsules </a>  </td>
+                            </tr>
+												 <tr>
+                                                   <td class="em_grey" align="left" style="font-family:  Arial, Helvetica, sans-serif;  font-size: 11px; line-height: 13px; color:#000000; padding-bottom:15px;"><em>You are encouraged to report negative side effects of prescription drugs to the FDA. Visit <a style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #127dc2; text-decoration: underline;" href="https://www.fda.gov/Safety/MedWatch/default.htm" target="_blank">www.FDA.gov/medwatch</a> or call <a href="tel:18002369933" style="color:#127dc2;">1-800-FDA-1088</a>.</em>                                       </td>
+                                                </tr>
+												<tr>
+													<td style="font-family:Arial, Herlvetica, sans-serif; font-size:11px; line-height:13px; color:#000000; padding-bottom:10px;">
+														<a style="text-decoration: underline; COLOR: #0097d9" href="https://www.purplepill.com/contact-us.html" target="_blank"><strong style="font-weight: normal">Contact Us</strong></a> | <a style="text-decoration: underline; COLOR: #0097d9" href="http://www.azprivacynotice.com/Privacy-Notice.html" target="_blank"><strong style="font-weight: normal">Privacy Notice</strong></a>
+													</td>
+												</tr> 
+                                                <tr>
+                                                   <td class="em_grey" align="left" style="font-family:  Arial, Helvetica, sans-serif;  font-size: 11px; line-height: 13px; color:#000000; padding-bottom:10px;">Please do not reply to this e-mail; it will not reach us. To ensure you will continue to receive these e-mails in your inbox, please add <a style="font-family: Arial, Helvetica, sans-serif; text-decoration: underline; font-size: 11px; color: #127dc2;" href="mailto:PurplePill@e.astrazeneca-us.com" target="_blank" class="footer_email_id_href"><strong style="font-weight:normal;"><span class="footer_email_id">PurplePill</span>@e.astrazeneca-us.com</strong></a> to your address book.</td>
+                                                </tr>
+                                                <tr>
+                                                   <td class="em_grey" align="left" style="font-family:  Arial, Helvetica, sans-serif;  font-size: 11px; line-height: 13px; color:#000000;padding-bottom:10px;">                                          If in the future you no longer want to receive e-mails about NEXIUM Packets/GERD, <a style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #127dc2; text-decoration: underline;" href="http://t.e.astrazeneca-us.com/webApp/aznUsUnsubWebApp?id={ENCRYPTED%20RECIPIENT%20ID}&lang=en_US&_service={SERVICE%20CODE}" target="_blank"><strong style="font-weight:normal;">unsubscribe</strong></a> or call the AstraZeneca Information Center at <a href="tel:18002369933" style="color:#127dc2;">1-800-236-9933</a>.                                       </td>
+                                                </tr>
+                                                <tr>
+                                                   <td class="em_grey" align="left" style="font-family:  Arial, Helvetica, sans-serif;  font-size: 11px; line-height: 13px; color:#000000;padding-bottom:10px;">                                          This product information is intended for US health care professionals only.                                       </td>
+                                                </tr>
+                                                <tr>
+                                                   <td class="em_grey" align="left" style="font-family:  Arial, Helvetica, sans-serif;  font-size: 11px; line-height: 13px; color:#000000;padding-bottom:10px;">                                         NEXIUM and the
+color purple as applied to the
+capsule are registered trademarks
+and The Purple Pill is a trademark of
+the AstraZeneca group of
+companies.</td>
+                                                </tr>
+                                                
+                                                <tr>
+                                                   <td class="em_grey" align="left" style="font-family:  Arial, Helvetica, sans-serif;  font-size: 11px; line-height: 13px; color:#000000;padding-bottom:10px;">                                          The Information Center at AstraZeneca<br>                                          1800 Concord Pike, PO Box 15437, Wilmington, DE 19850-5437                                       </td>
+                                                </tr>
+                                                <tr>
+                                                   <td align="center" valign="top">
+                                                      <table width="600" style="width:600px;" border="0" cellspacing="0" cellpadding="0" align="center" class="em_wrapper">
+                                                         <tbody>
+                                                            <tr>
+                                                               <!--Image 172X30-->                                                
+                                                               <td width="430" height="30" valign="middle" style="width:430px;padding-right:10px;font-family:  Arial, Helvetica, sans-serif;  font-size: 11px; line-height: 13px; color:#000000; height:30px;text-decoration: none;">©2017 AstraZeneca. All rights reserved. <span class="form_field asset-id" fieldtype="txt" fieldname="Asset ID">US-16437</span> Last Updated 12/17</td>
+                                                               <!--Image 114X30-->                                                
+                                                               <td width="160" valign="top" style="width:160px;"><a href="https://www.astrazeneca-us.com/" target="_blank" style="text-decoration:none;"><img src="http://t.email.astrazeneca.com/res/astrazeneca/3242912_Nexium_LogoAZ.gif" width="114" height="30" alt="AstraZeneca" border="0" style="display:block; font-family:Arial, sans-serif; font-size:14px; line-height:25px; text-align:center; color:#000000; font-weight:bold;  max-width:114px;" class="em_full_img"></a></td>
+                                                               <!--//Image 114X30-->                                              
+                                                            </tr>
+                                                         </tbody>
+                                                      </table>
+                                                   </td>
+                                                </tr>
+                                                <tr>
+                                                   <td height="28" class="em_h20" style="font-size:1px;line-height:1px;height:28px;mso-line-height-rule:exactly;">&nbsp;</td>
+                                                </tr>
+                                             </tbody>
+                                          </table>
+                                       </td>
+                                    </tr>
+                                    <!--//Footer section-->                        
+                                 </tbody>
+                              </table>
+                           </td>
+                           <td width="10" style="width:10px;">&nbsp;</td>
+                        </tr>
+                        <!--//body_section-->               
+                     </tbody>
+                  </table>
+               </td>
+            </tr>
+         </tbody>
+      </table>
+	  <div class="yyy" style="white-space:nowrap; font:15px courier; line-height:0;">  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div>
+   </body>
 </html>
